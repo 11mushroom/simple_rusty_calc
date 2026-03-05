@@ -1,0 +1,11 @@
+/debug
+/target
+
+/src
+!/src/*.rs
+
+**/*.rs.bk
+
+**/*.pdb
+
+**/mutants.out*/
