@@ -1,11 +1,11 @@
 # description
 just a simple calculator
 it supports 5 operations: 
-  addition          +
-  substraction      -
-  multiplication    *
-  division          /
-  power             ^
+ - addition          +
+ - substraction      -
+ - multiplication    *
+ - division          /
+ - power             ^
 
 # Building
 
