@@ -11,7 +11,7 @@ it supports 5 operations:
 
 - clone repository if not already cloned
   ```
-  git clone httos://github.com/11mushroom/simple_rusty_calc.git
+  git clone https://github.com/11mushroom/simple_rusty_calc.git
   ```
 
 - to build binary
